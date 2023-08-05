@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 
 <br>
+<br>
 
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 
@@ -17,11 +18,13 @@
 <img src="https://img.shields.io/badge/macos-000000?style=flat&logo=macos&logoColor=white"/>
 
 <br>
+<br>
 
 <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>
 
+<br>
 <br>
 
 <img src="https://img.shields.io/badge/reactivex-B7178C?style=flat&logo=reactivex&logoColor=white"/>
