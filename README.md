@@ -2,7 +2,7 @@
 <!--
 https://simpleicons.org/
 로고 이름 복사 - hex color 값 복사
--->
+
 
 <div>
 
@@ -25,7 +25,7 @@ https://simpleicons.org/
 
 </div>
 
-
+-->
 
 <!--
 **newkayak12/newkayak12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
